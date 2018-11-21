@@ -1,0 +1,20 @@
+{
+  "name": "koa-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-logger": "^3.2.0",
+    "koa-session": "^5.10.0",
+    "koa-views": "^6.1.4",
+    "pug": "^2.0.3"
+  }
+}
